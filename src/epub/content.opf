@@ -45,9 +45,10 @@
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The second collection of fairy tales by Mary De Morgan.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mary-de-morgan"&gt;Mary De Morgan&lt;/a&gt; brings seven new fairy tales in this collection. Like her previous work, the stories in this edition draw inspiration from other stories of the same genre, both of folkloric nature and from authors of literary fairy tales, such as Hans Christian Andersen. Besides entertainment, other themes are also present here, like greed in “The Bread of Discontent” and love and loyalty in “The Wanderings of Arasmon.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Necklace of Princess Fiorimonde, And Other Stories&lt;/i&gt;, in its original publication, is the second collection of literary fairy tales by De Morgan.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/38976</dc:source>
